@@ -1,6 +1,6 @@
 const { spawn }  = require('child_process');
 
-const args = ['--experimental-modules', 'app'];
+const args = ['app'];
 const opts = {
 	cwd: 'server',
 	stdio: 'inherit',

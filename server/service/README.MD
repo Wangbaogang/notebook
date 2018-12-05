@@ -1,1 +1,1 @@
-## service层，维护dao层至controller(router)层的业务逻辑 即： db数据 -> 业务数据
+## 向 controller提供 **业务需要的数据**
